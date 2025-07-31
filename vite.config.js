@@ -8,5 +8,5 @@ export default defineConfig({
   plugins: [react()
     , tailwindcss(),
   ],
-  base:"/AI-wellness-App",
+  base:"/Calmind",
 })
